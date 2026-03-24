@@ -30,7 +30,7 @@ local LP     = Players.LocalPlayer
 local Camera = workspace.CurrentCamera
 
 -- WHITELIST  ← Set your GitHub URLs here
-local URL_PREM = ""   -- raw GitHub URL for premium user list
+local URL_PREM = "https://raw.githubusercontent.com/VoidCenter-Roblox/Void-Center/refs/heads/main/VoidCenter_premium_users.lua"   -- raw GitHub URL for premium user list
 
 -- Premium user list — only these users get troll commands
 local LOCAL_PREM = {
