@@ -1,4 +1,4 @@
-local BASE_URL = ""
+local BASE_URL = "https://raw.githubusercontent.com/VoidCenter-Roblox/Void-Center/refs/heads/main/"
 
 local function Alert(msg)
     pcall(function()
